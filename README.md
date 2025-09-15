@@ -63,6 +63,4 @@ Script: `talent_analytics_sklearn.py`
 - joblib for persistence  
 - Calibration metrics and fairness reporting  
 
----
 
-## Repository Structure
